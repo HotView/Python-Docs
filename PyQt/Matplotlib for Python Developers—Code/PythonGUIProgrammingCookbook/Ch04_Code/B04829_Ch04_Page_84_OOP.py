@@ -181,7 +181,7 @@ class OOP():
         menuBar.add_cascade(label="Help", menu=helpMenu)
         
         # Change the main windows icon
-        self.win.iconbitmap(r'C:\Python34\DLLs\pyc.ico')
+        self.win.iconbitmap(r'D:\Python36\DLLs\pyc.ico')
         
         # Using tkinter Variable Classes
         strData = tk.StringVar()
